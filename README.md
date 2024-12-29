@@ -1,2 +1,2 @@
 # readme
-tring first project
+trying first project
